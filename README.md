@@ -3,7 +3,7 @@
   <a href="https://discord.gg/rascalsmart" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff"></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=ff0000&center=true&vCenter=true&width=380&lines=Hey+I'm+Evil;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Victim+Nuker;Viictim+Selfbot;Fenix+&+Fizer+Bots" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=ff0000&center=true&vCenter=true&width=380&lines=Hey+I'm+Evil;I'm+a+Python+Developer;I+Made+Tools+Such+As..;Victim+Nuker;Victim+Selfbot;Fenix+&+Fizer+Bots" alt="Typing SVG">
 </p>
 
 ---
